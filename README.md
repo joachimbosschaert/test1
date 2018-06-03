@@ -1,3 +1,3 @@
-# test1
+# The Test Project
 a test
 woohoo
